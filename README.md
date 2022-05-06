@@ -4,6 +4,6 @@
  
  ### Requirements
  
- -GCC
- -Golang
+> *GCC
+> *Golang
  
