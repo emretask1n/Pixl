@@ -7,3 +7,6 @@
 >* GCC
 >* Golang
  
+
+ ### Editor example
+ ![plot](exmple.png)
